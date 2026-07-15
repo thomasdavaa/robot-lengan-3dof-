@@ -1,4 +1,4 @@
-# Lengan Robot 3 DoF Inverse Kinematics
+# Lengan Robot 3 DoF — Inverse Kinematics
 
 Repository ini berisi laporan, kode program, dan dokumentasi pengujian untuk proyek
 **Lengan Robot Industri 3 DoF (Degree of Freedom)** berbasis Arduino Uno R3.
