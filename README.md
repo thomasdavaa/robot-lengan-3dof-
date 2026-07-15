@@ -1,4 +1,4 @@
-# Lengan Robot 3 DoF — Inverse Kinematics
+# Lengan Robot 3 DoF Inverse Kinematics
 
 Repository ini berisi laporan, kode program, dan dokumentasi pengujian untuk proyek
 **Lengan Robot Industri 3 DoF (Degree of Freedom)** berbasis Arduino Uno R3.
@@ -112,7 +112,7 @@ pada program sudah valid. Selisih kecil yang tersisa disebabkan oleh keterbatasa
 (backlash roda gigi servo) dan resolusi motor servo.
 
 ## Kelebihan dan Kekurangan
-**Kelebihan:** Robot bekerja baik dengan logika Inverse Kinematic — hasil perhitungan
+**Kelebihan:** Robot bekerja baik dengan logika Inverse Kinematic hasil perhitungan
 teori dan sudut aktual lengan memiliki error kecil yang masih dapat ditoleransi.
 
 **Kekurangan:** End-effector hanya dapat berputar (menyapu), belum bisa mengambil/menjepit barang.
