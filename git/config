@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = robot-lengan-3dof@example.com
+	name = Tim Lengan Robot 3 DoF
